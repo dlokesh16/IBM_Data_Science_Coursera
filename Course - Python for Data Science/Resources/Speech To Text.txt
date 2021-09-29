@@ -1,0 +1,5 @@
+API key:
+S-4iqpu571clcIxkxtLwHgejWgoZpTR8nuz668vgIC7y
+
+URL:
+https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/80d70ff2-dd52-4957-bef9-b1c4e0f88487
