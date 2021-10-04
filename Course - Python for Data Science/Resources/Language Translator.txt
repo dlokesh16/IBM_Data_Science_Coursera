@@ -1,5 +1,0 @@
-API key:
-I-ce-AzJqrGCT7dqXbcU13L3qLvuOCzwePs318fGEJv-
-
-URL:
-https://api.us-south.language-translator.watson.cloud.ibm.com/instances/2c125cd2-6291-4c28-a9ed-eb984f672818
